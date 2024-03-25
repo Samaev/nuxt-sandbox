@@ -3,8 +3,8 @@
 </script>
 
 <template>
-  <h3>Events page</h3>
-  <a href="/">Home</a>
+  <h3 class="text-center">Events page</h3>
+
 </template>
 
 <style scoped>
