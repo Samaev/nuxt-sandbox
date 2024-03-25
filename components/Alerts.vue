@@ -2,13 +2,14 @@
 import {defineComponent} from 'vue'
 
 export default defineComponent({
-  name: "index"
+  name: "Alerts"
 })
 </script>
 
 <template>
-  <h2 class="text-center">Index</h2>
-
+ <div class="card">
+   <h1 class="bg-primary">This is alert Component</h1>
+ </div>
 </template>
 
 <style scoped>
